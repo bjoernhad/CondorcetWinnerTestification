@@ -1,6 +1,6 @@
-## Code Repository for the Paper
-# "Testification of Condorcet Winners in Dueling Bandits"
-## UAI 2021
+This is the code Repository for the Paper
+## "Testification of Condorcet Winners in Dueling Bandits"
+#### (To appear in the Proceedings of Conference on Uncertainty in Artificial Intelligence (UAI), 2021)
 
 The code is written in Python 3.7.
 
@@ -32,4 +32,4 @@ For reconstructing the results, uncomment the corresponding lines and execute
 the files. Some results are not shown in the terminal but only saved to files,
 see the code for the details.
 
-In case of questions please contact Björn Haddenhorst (bjoernha@mail.upb.de).
+In case of questions please contact Björn Haddenhorst (bjoernha@mail.upb.de) or Jasmin Brandt (jasmin.brandt@upb.de).
